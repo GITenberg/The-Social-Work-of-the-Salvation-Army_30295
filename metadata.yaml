@@ -1,0 +1,27 @@
+_repo: The-Social-Work-of-the-Salvation-Army_30295
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamb, Edwin Gifford
+    birthdate: 1878
+    gutenberg_agent_id: '34501'
+    url: http://www.gutenberg.org/2009/agents/34501
+description: ''
+gutenberg_issued: '2009-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salvation Army'
+- !lcc 'HV'
+- !lcsh 'Social history'
+- !lcsh 'Poor'
+title: The Social Work of the Salvation Army
+url: http://www.gutenberg.org/ebooks/30295
