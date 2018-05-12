@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '34501'
     url: http://www.gutenberg.org/2009/agents/34501
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30295#The-Social-Work-of-the-Salvation-Army
 gutenberg_issued: '2009-10-20'
 gutenberg_type: Text
 identifiers:
